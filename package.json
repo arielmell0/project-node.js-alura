@@ -1,0 +1,12 @@
+{
+  "name": "project-node.js-alura",
+  "version": "1.0.0",
+  "description": "Project in node - alura",
+  "main": "index.js",
+  "repository": "https://github.com/arielmell0/project-node.js-alura.git",
+  "author": "Ariel Oliveira de Mello",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
